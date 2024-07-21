@@ -229,20 +229,20 @@
       "dsj": 20
     },
     {
-      "_id": 6859814961,
-      "title": "Muzan Kibutsuji",
-      "m": 3,
-      "a": 1,
-      "p": "1.36",
-      "dsj": 244
-    },
-    {
       "_id": 1557708565,
       "title": "Jotaro kujo",
       "m": 3,
       "a": 1,
       "p": "0.31",
       "dsj": null
+    },
+    {
+      "_id": 6859814961,
+      "title": "Muzan Kibutsuji",
+      "m": 3,
+      "a": 1,
+      "p": "1.36",
+      "dsj": 244
     }
   ],
   "chat": {
