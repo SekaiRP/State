@@ -229,26 +229,26 @@
       "dsj": 258
     },
     {
-      "_id": 6725180134,
-      "title": "Erwin Smith",
-      "m": 1,
-      "a": 1,
-      "p": "1.27",
-      "dsj": 94
-    },
-    {
       "_id": 5967803304,
       "title": "𝑴𝒂𝒙𝒊𝒎𝒊𝒍𝒊𝒂𝒏",
       "m": 1,
       "a": 1,
       "p": "0",
       "dsj": 21
+    },
+    {
+      "_id": 2071758597,
+      "title": null,
+      "m": 1,
+      "a": 1,
+      "p": "0.18",
+      "dsj": 39
     }
   ],
   "chat": {
     "total": 102663,
     "avg": 3422,
-    "member_count": 123,
+    "member_count": 121,
     "days": [
       {
         "msg": 4117,
@@ -559,13 +559,13 @@
       {
         "day": "08/04",
         "new": 0,
-        "left": 0,
+        "left": 2,
         "active": 11
       }
     ],
     "active_count": 105,
     "new_count": 38,
-    "left_count": 34
+    "left_count": 36
   },
   "ruby": [
     {
