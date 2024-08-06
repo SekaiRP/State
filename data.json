@@ -205,20 +205,20 @@
       "dsj": null
     },
     {
-      "_id": 1751269357,
-      "title": "Tengen Uzui",
-      "m": 12,
-      "a": 1,
-      "p": "5.02",
-      "dsj": null
-    },
-    {
       "_id": 6859814961,
       "title": "Muzan Kibutsuji",
       "m": 12,
       "a": 1,
       "p": "8.56",
       "dsj": 260
+    },
+    {
+      "_id": 1751269357,
+      "title": "Tengen Uzui",
+      "m": 12,
+      "a": 1,
+      "p": "5.02",
+      "dsj": null
     },
     {
       "_id": 7312382729,
