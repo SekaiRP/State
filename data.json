@@ -248,7 +248,7 @@
   "chat": {
     "total": 85011,
     "avg": 2833,
-    "member_count": 133,
+    "member_count": 132,
     "days": [
       {
         "msg": 1894,
@@ -559,13 +559,13 @@
       {
         "day": "09/08",
         "new": 0,
-        "left": 2,
+        "left": 3,
         "active": 21
       }
     ],
     "active_count": 101,
     "new_count": 39,
-    "left_count": 27
+    "left_count": 28
   },
   "ruby": [
     {
