@@ -229,20 +229,20 @@
       "dsj": 110
     },
     {
-      "_id": 1988812409,
-      "title": "Light Yagami",
-      "m": 4,
-      "a": 1,
-      "p": "1.47",
-      "dsj": 219
-    },
-    {
       "_id": 6309535938,
       "title": "Sebastian michaelis",
       "m": 4,
       "a": 1,
       "p": "0.42",
       "dsj": 88
+    },
+    {
+      "_id": 1988812409,
+      "title": "Light Yagami",
+      "m": 4,
+      "a": 1,
+      "p": "1.47",
+      "dsj": 219
     }
   ],
   "chat": {
