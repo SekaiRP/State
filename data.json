@@ -221,14 +221,6 @@
       "dsj": 68
     },
     {
-      "_id": 6309535938,
-      "title": "Sebastian michaelis",
-      "m": 4,
-      "a": 1,
-      "p": "0.42",
-      "dsj": 88
-    },
-    {
       "_id": 6276998835,
       "title": "Mona Megistus",
       "m": 4,
@@ -243,10 +235,18 @@
       "a": 1,
       "p": "1.47",
       "dsj": 219
+    },
+    {
+      "_id": 6309535938,
+      "title": "Sebastian michaelis",
+      "m": 4,
+      "a": 1,
+      "p": "0.42",
+      "dsj": 88
     }
   ],
   "chat": {
-    "total": 59171,
+    "total": 59172,
     "avg": 1972,
     "member_count": 125,
     "days": [
@@ -371,7 +371,7 @@
         "day": "09/29"
       },
       {
-        "msg": 216,
+        "msg": 217,
         "day": "09/30"
       }
     ],
@@ -560,7 +560,7 @@
         "day": "09/30",
         "new": 0,
         "left": 1,
-        "active": 13
+        "active": 14
       }
     ],
     "active_count": 86,
