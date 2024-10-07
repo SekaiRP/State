@@ -43,8 +43,8 @@
     {
       "_id": 7514241428,
       "title": "Yu Narukami",
-      "m": 2487,
-      "a": 30,
+      "m": 2489,
+      "a": 31,
       "p": "3.43",
       "dsj": 37
     },
@@ -127,7 +127,7 @@
       "title": "prince of persia‌",
       "m": 701,
       "a": 6,
-      "p": "6.39",
+      "p": "6.38",
       "dsj": 104
     },
     {
@@ -163,9 +163,34 @@
       "dsj": 75
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 6010956406,
+      "title": "Cid Kagenou",
+      "m": 7,
+      "a": 1,
+      "p": "30.4",
+      "dsj": 408
+    },
+    {
+      "_id": 1988812409,
+      "title": "Light Yagami",
+      "m": 3,
+      "a": 1,
+      "p": "34.7",
+      "dsj": 226
+    },
+    {
+      "_id": 7514241428,
+      "title": "Yu Narukami",
+      "m": 2,
+      "a": 1,
+      "p": "34.7",
+      "dsj": 37
+    }
+  ],
   "chat": {
-    "total": 57495,
+    "total": 57507,
     "avg": 1916,
     "member_count": 129,
     "days": [
@@ -290,7 +315,7 @@
         "day": "10/07"
       },
       {
-        "msg": 0,
+        "msg": 12,
         "day": "10/08"
       }
     ],
@@ -479,10 +504,10 @@
         "day": "10/08",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 3
       }
     ],
-    "active_count": 89,
+    "active_count": 90,
     "new_count": 18,
     "left_count": 19
   },
@@ -658,12 +683,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 5918214103,
+      "name": "Joseph Joestar"
     },
     {
-      "id": null,
-      "name": null
+      "id": 2071758597,
+      "name": "Sōsuke Aizen"
     }
   ],
   "admins": [
