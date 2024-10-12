@@ -59,8 +59,8 @@
     {
       "_id": 7514241428,
       "title": "James sunderland",
-      "m": 2046,
-      "a": 30,
+      "m": 2047,
+      "a": 31,
       "p": "2.59",
       "dsj": 42
     },
@@ -133,8 +133,8 @@
     {
       "_id": 7514241428,
       "title": "James sunderland",
-      "m": 449,
-      "a": 6,
+      "m": 450,
+      "a": 7,
       "p": "2.16",
       "dsj": 42
     },
@@ -163,9 +163,18 @@
       "dsj": 26
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 7514241428,
+      "title": "James sunderland",
+      "m": 1,
+      "a": 1,
+      "p": "100",
+      "dsj": 42
+    }
+  ],
   "chat": {
-    "total": 62048,
+    "total": 62049,
     "avg": 2068,
     "member_count": 128,
     "days": [
@@ -290,7 +299,7 @@
         "day": "10/12"
       },
       {
-        "msg": 0,
+        "msg": 1,
         "day": "10/13"
       }
     ],
@@ -479,7 +488,7 @@
         "day": "10/13",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 1
       }
     ],
     "active_count": 84,
@@ -658,12 +667,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 7120029126,
+      "name": "𝐜𝐡𝐢𝐤𝐚 𝐟𝐮𝐣𝐢𝐰𝐚𝐫𝐚"
     },
     {
-      "id": null,
-      "name": null
+      "id": 5785225284,
+      "name": "Xiao"
     }
   ],
   "admins": [
