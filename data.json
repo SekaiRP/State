@@ -67,8 +67,8 @@
     {
       "_id": 1318578276,
       "title": "prince of persia‌",
-      "m": 1457,
-      "a": 30,
+      "m": 1458,
+      "a": 31,
       "p": "3.00",
       "dsj": 124
     },
@@ -157,15 +157,40 @@
     {
       "_id": 6309535938,
       "title": "Toji Fushiguro",
-      "m": 358,
-      "a": 6,
+      "m": 359,
+      "a": 7,
       "p": "4.00",
       "dsj": 115
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 6309535938,
+      "title": "Toji Fushiguro",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 115
+    },
+    {
+      "_id": 6681639276,
+      "title": "𝘌𝘭𝘭𝘦𝘯 𝘫𝘰𝘦",
+      "m": 1,
+      "a": 1,
+      "p": "100",
+      "dsj": 137
+    },
+    {
+      "_id": 1318578276,
+      "title": "prince of persia‌",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 124
+    }
+  ],
   "chat": {
-    "total": 63304,
+    "total": 63307,
     "avg": 2110,
     "member_count": 138,
     "days": [
@@ -290,7 +315,7 @@
         "day": "10/27"
       },
       {
-        "msg": 0,
+        "msg": 3,
         "day": "10/28"
       }
     ],
@@ -479,7 +504,7 @@
         "day": "10/28",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 3
       }
     ],
     "active_count": 89,
@@ -658,12 +683,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 6619469361,
+      "name": "Buddha"
     },
     {
-      "id": null,
-      "name": null
+      "id": 1423506779,
+      "name": "urahara kisuke"
     }
   ],
   "admins": [
