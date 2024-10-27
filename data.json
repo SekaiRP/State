@@ -205,12 +205,12 @@
       "dsj": 4
     },
     {
-      "_id": 7380647309,
-      "title": "Yuichiro Hyakuya",
+      "_id": 6276998835,
+      "title": "Mona Megistus",
       "m": 2,
       "a": 1,
-      "p": "0.97",
-      "dsj": 62
+      "p": "4.72",
+      "dsj": 137
     },
     {
       "_id": 248916331,
@@ -221,6 +221,14 @@
       "dsj": 24
     },
     {
+      "_id": 7380647309,
+      "title": "Yuichiro Hyakuya",
+      "m": 2,
+      "a": 1,
+      "p": "0.97",
+      "dsj": 62
+    },
+    {
       "_id": 7514241428,
       "title": "Ren amamiya",
       "m": 2,
@@ -229,20 +237,12 @@
       "dsj": 57
     },
     {
-      "_id": 6276998835,
-      "title": "Mona Megistus",
-      "m": 2,
-      "a": 1,
-      "p": "4.72",
-      "dsj": 137
-    },
-    {
-      "_id": 1596803535,
-      "title": "Akiko Yosano",
+      "_id": 5563695711,
+      "title": "Gojo Satoru",
       "m": 1,
       "a": 1,
       "p": "4.23",
-      "dsj": 121
+      "dsj": 141
     }
   ],
   "chat": {
