@@ -169,7 +169,7 @@
       "title": "Toji Fushiguro",
       "m": 5,
       "a": 1,
-      "p": "87.0",
+      "p": "83.2",
       "dsj": 124
     },
     {
@@ -177,12 +177,20 @@
       "title": "Hatsune Miku",
       "m": 3,
       "a": 1,
-      "p": "12.9",
+      "p": "12.4",
       "dsj": 7
+    },
+    {
+      "_id": 6276998835,
+      "title": "Mona Megistus",
+      "m": 1,
+      "a": 1,
+      "p": "4.37",
+      "dsj": 146
     }
   ],
   "chat": {
-    "total": 60957,
+    "total": 60958,
     "avg": 2031,
     "member_count": 139,
     "days": [
@@ -307,7 +315,7 @@
         "day": "11/05"
       },
       {
-        "msg": 8,
+        "msg": 9,
         "day": "11/06"
       }
     ],
@@ -496,7 +504,7 @@
         "day": "11/06",
         "new": 0,
         "left": 0,
-        "active": 2
+        "active": 3
       }
     ],
     "active_count": 90,
