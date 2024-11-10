@@ -169,12 +169,20 @@
       "title": "Hatsune Miku",
       "m": 3,
       "a": 1,
-      "p": "100",
+      "p": "15.9",
       "dsj": 12
+    },
+    {
+      "_id": 6725180134,
+      "title": "Erwin Smith",
+      "m": 2,
+      "a": 1,
+      "p": "84.0",
+      "dsj": 192
     }
   ],
   "chat": {
-    "total": 61906,
+    "total": 61908,
     "avg": 2063,
     "member_count": 142,
     "days": [
@@ -299,7 +307,7 @@
         "day": "11/10"
       },
       {
-        "msg": 3,
+        "msg": 5,
         "day": "11/11"
       }
     ],
@@ -488,7 +496,7 @@
         "day": "11/11",
         "new": 0,
         "left": 0,
-        "active": 1
+        "active": 2
       }
     ],
     "active_count": 95,
