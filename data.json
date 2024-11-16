@@ -67,8 +67,8 @@
     {
       "_id": 1318578276,
       "title": "prince of persia‌",
-      "m": 1619,
-      "a": 30,
+      "m": 1620,
+      "a": 31,
       "p": "2.15",
       "dsj": 144
     },
@@ -125,8 +125,8 @@
     {
       "_id": 1318578276,
       "title": "prince of persia‌",
-      "m": 428,
-      "a": 6,
+      "m": 429,
+      "a": 7,
       "p": "3.41",
       "dsj": 144
     },
@@ -163,9 +163,26 @@
       "dsj": 1
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 1318578276,
+      "title": "prince of persia‌",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 144
+    },
+    {
+      "_id": 6309535938,
+      "title": "Toji",
+      "m": 1,
+      "a": 1,
+      "p": "100",
+      "dsj": 135
+    }
+  ],
   "chat": {
-    "total": 59253,
+    "total": 59255,
     "avg": 1975,
     "member_count": 146,
     "days": [
@@ -290,7 +307,7 @@
         "day": "11/16"
       },
       {
-        "msg": 0,
+        "msg": 2,
         "day": "11/17"
       }
     ],
@@ -479,7 +496,7 @@
         "day": "11/17",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 2
       }
     ],
     "active_count": 99,
@@ -663,12 +680,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 5258774633,
+      "name": "Kirito"
     },
     {
-      "id": null,
-      "name": null
+      "id": 6725180134,
+      "name": "Erwin Smith"
     }
   ],
   "admins": [
