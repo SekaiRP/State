@@ -197,24 +197,32 @@
       "dsj": 95
     },
     {
-      "_id": 7436299250,
-      "title": "Kamisato Ayato",
-      "m": 1,
-      "a": 1,
-      "p": "0",
-      "dsj": 107
-    },
-    {
       "_id": 1318578276,
       "title": "prince of persia‌",
       "m": 1,
       "a": 1,
       "p": "0",
       "dsj": 145
+    },
+    {
+      "_id": 6696918263,
+      "title": "Osamu Dazai",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 116
+    },
+    {
+      "_id": 7436299250,
+      "title": "Kamisato Ayato",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 107
     }
   ],
   "chat": {
-    "total": 58282,
+    "total": 58283,
     "avg": 1942,
     "member_count": 147,
     "days": [
@@ -339,7 +347,7 @@
         "day": "11/17"
       },
       {
-        "msg": 17,
+        "msg": 18,
         "day": "11/18"
       }
     ],
@@ -528,7 +536,7 @@
         "day": "11/18",
         "new": 0,
         "left": 0,
-        "active": 6
+        "active": 7
       }
     ],
     "active_count": 99,
