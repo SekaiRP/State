@@ -213,20 +213,20 @@
       "dsj": 150
     },
     {
-      "_id": 5570147521,
-      "title": "Twenty-Fifth Bam",
-      "m": 1,
-      "a": 1,
-      "p": "1.06",
-      "dsj": 174
-    },
-    {
       "_id": 1988812409,
       "title": "Light Yagami",
       "m": 1,
       "a": 1,
       "p": "0",
       "dsj": 275
+    },
+    {
+      "_id": 5570147521,
+      "title": "Twenty-Fifth Bam",
+      "m": 1,
+      "a": 1,
+      "p": "1.06",
+      "dsj": 174
     }
   ],
   "chat": {
