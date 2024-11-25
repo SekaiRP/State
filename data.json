@@ -163,9 +163,26 @@
       "dsj": 153
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 7089287726,
+      "title": "Ado",
+      "m": 2,
+      "a": 1,
+      "p": "23.5",
+      "dsj": 236
+    },
+    {
+      "_id": 6357530910,
+      "title": "coηѕtαηtιηe",
+      "m": 1,
+      "a": 1,
+      "p": "76.4",
+      "dsj": 6
+    }
+  ],
   "chat": {
-    "total": 52097,
+    "total": 52100,
     "avg": 1736,
     "member_count": 135,
     "days": [
@@ -290,7 +307,7 @@
         "day": "11/25"
       },
       {
-        "msg": 0,
+        "msg": 3,
         "day": "11/26"
       }
     ],
@@ -479,7 +496,7 @@
         "day": "11/26",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 2
       }
     ],
     "active_count": 96,
@@ -663,12 +680,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 5196666775,
+      "name": "Aki Hayakawa"
     },
     {
-      "id": null,
-      "name": null
+      "id": 5858073934,
+      "name": "Rimuru Tempest"
     }
   ],
   "admins": [
