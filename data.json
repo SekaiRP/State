@@ -35,8 +35,8 @@
     {
       "_id": 6425607323,
       "title": "Hirofumi Yoshida",
-      "m": 2238,
-      "a": 27,
+      "m": 2239,
+      "a": 28,
       "p": "6.86",
       "dsj": 28
     },
@@ -237,16 +237,16 @@
       "dsj": 16
     },
     {
-      "_id": 7500702186,
-      "title": "Lumine",
+      "_id": 1193686868,
+      "title": "Raiden Bosenmori mei",
       "m": 9,
       "a": 1,
-      "p": "2.25",
-      "dsj": 6
+      "p": "0.98",
+      "dsj": 37
     }
   ],
   "chat": {
-    "total": 50101,
+    "total": 50102,
     "avg": 1670,
     "member_count": 128,
     "days": [
@@ -371,7 +371,7 @@
         "day": "12/04"
       },
       {
-        "msg": 403,
+        "msg": 404,
         "day": "12/05"
       }
     ],
@@ -560,7 +560,7 @@
         "day": "12/05",
         "new": 0,
         "left": 0,
-        "active": 17
+        "active": 18
       }
     ],
     "active_count": 89,
