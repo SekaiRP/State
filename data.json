@@ -213,6 +213,14 @@
       "dsj": 82
     },
     {
+      "_id": 1318578276,
+      "title": "prince of persia‌",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 165
+    },
+    {
       "_id": 6726192922,
       "title": "AETHER",
       "m": 1,
@@ -221,20 +229,12 @@
       "dsj": 115
     },
     {
-      "_id": 7436299250,
-      "title": "Kamisato Ayato",
-      "m": 1,
-      "a": 1,
-      "p": "5.25",
-      "dsj": 127
-    },
-    {
-      "_id": 1318578276,
-      "title": "prince of persia‌",
+      "_id": 5905804556,
+      "title": "Hayato Suo",
       "m": 1,
       "a": 1,
       "p": "0",
-      "dsj": 165
+      "dsj": null
     },
     {
       "_id": 5967803304,
