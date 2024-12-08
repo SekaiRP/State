@@ -229,12 +229,12 @@
       "dsj": 232
     },
     {
-      "_id": 7123040357,
-      "title": "𝗒𝖾𝗅𝖺𝗇",
+      "_id": 6179151321,
+      "title": "Rei ayanami",
       "m": 9,
       "a": 1,
-      "p": "1.50",
-      "dsj": 88
+      "p": "1.62",
+      "dsj": 16
     },
     {
       "_id": 7289541149,
@@ -575,28 +575,28 @@
       "name": "Boothill"
     },
     {
+      "id": 5226171081,
+      "status": "Normal",
+      "roles": 4,
+      "name": "‌ ‌‌ ‌‌ ‌ 𝖿uɾіᥒᥲ"
+    },
+    {
       "id": 1557708565,
       "status": "Normal",
       "roles": 1,
       "name": "Victor"
     },
     {
-      "id": 5226171081,
-      "status": "Normal",
-      "roles": 3,
-      "name": "‌ ‌‌ ‌‌ ‌ 𝖿uɾіᥒᥲ"
-    },
-    {
-      "id": 5331398288,
-      "status": "Normal",
-      "roles": 5,
-      "name": "Karama"
-    },
-    {
       "id": 6725180134,
       "status": "Normal",
       "roles": 0,
       "name": "Erwin Smith"
+    },
+    {
+      "id": 5331398288,
+      "status": "Normal",
+      "roles": 4,
+      "name": "Karama"
     },
     {
       "id": 6859814961,
