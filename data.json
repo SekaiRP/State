@@ -139,20 +139,20 @@
       "dsj": 167
     },
     {
-      "_id": 7436299250,
-      "title": "Kamisato Ayato",
-      "m": 228,
-      "a": 6,
-      "p": "3.11",
-      "dsj": 129
-    },
-    {
       "_id": 7089287726,
       "title": "Reimu Hakurei",
       "m": 228,
       "a": 6,
       "p": "2.01",
       "dsj": 250
+    },
+    {
+      "_id": 7436299250,
+      "title": "Kamisato Ayato",
+      "m": 228,
+      "a": 6,
+      "p": "3.11",
+      "dsj": 129
     },
     {
       "_id": 1193686868,
@@ -224,7 +224,7 @@
   "chat": {
     "total": 45405,
     "avg": 1513,
-    "member_count": 122,
+    "member_count": 0,
     "days": [
       {
         "msg": 2165,
