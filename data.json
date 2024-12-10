@@ -213,20 +213,20 @@
       "dsj": 139
     },
     {
-      "_id": 6309535938,
-      "title": "MR FREEMAN",
-      "m": 1,
-      "a": 1,
-      "p": "2.85",
-      "dsj": 159
-    },
-    {
       "_id": 1318578276,
       "title": "prince of persia‌",
       "m": 1,
       "a": 1,
       "p": "0",
       "dsj": 168
+    },
+    {
+      "_id": 6309535938,
+      "title": "MR FREEMAN",
+      "m": 1,
+      "a": 1,
+      "p": "2.85",
+      "dsj": 159
     },
     {
       "_id": 7500702186,
@@ -240,7 +240,7 @@
   "chat": {
     "total": 44299,
     "avg": 1476,
-    "member_count": 0,
+    "member_count": 121,
     "days": [
       {
         "msg": 2236,
@@ -576,7 +576,7 @@
       "id": 1557708565,
       "status": "Normal",
       "roles": 1,
-      "name": null
+      "name": "Victor"
     },
     {
       "id": 6725180134,
@@ -588,7 +588,7 @@
       "id": 5331398288,
       "status": "Normal",
       "roles": 4,
-      "name": null
+      "name": "Karama"
     },
     {
       "id": 1596803535,
@@ -638,7 +638,7 @@
       "id": 1557708565,
       "top": 26,
       "status": "Normal",
-      "name": null
+      "name": "Victor"
     },
     {
       "id": 6681639276,
@@ -776,6 +776,11 @@
       "name": "Guren Ichinose"
     },
     {
+      "id": 5331398288,
+      "place": "Register",
+      "name": "Karama"
+    },
+    {
       "id": 1988812409,
       "place": "Report",
       "name": "Light Yagami"
@@ -791,29 +796,24 @@
       "name": "Neuvillette"
     },
     {
-      "id": 7312382729,
-      "place": "tv",
-      "name": null
-    },
-    {
-      "id": 5331398288,
-      "place": "Register",
-      "name": null
-    },
-    {
-      "id": 7380647309,
-      "place": "manager",
-      "name": null
-    },
-    {
       "id": 1596803535,
       "place": "Register",
       "name": "Yosano"
     },
     {
+      "id": 7380647309,
+      "place": "manager",
+      "name": "Yuichiro Hyakuya"
+    },
+    {
       "id": 6769708582,
       "place": "repost",
       "name": "‌ ‌‌ ‌‌ ‌ Yaᥱ mikᦢ"
+    },
+    {
+      "id": 7312382729,
+      "place": "tv",
+      "name": "‌‌‌‌ ‌‌ ‌ ‌‌gothlullaby"
     },
     {
       "id": 1948684068,
