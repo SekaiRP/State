@@ -189,20 +189,12 @@
       "dsj": 169
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
+      "_id": 7830166334,
+      "title": "Ren Amamiya",
       "m": 5,
       "a": 1,
-      "p": "1.80",
-      "dsj": 396
-    },
-    {
-      "_id": 5018758160,
-      "title": "Jayce Talis",
-      "m": 5,
-      "a": 1,
-      "p": "14.5",
-      "dsj": 64
+      "p": "3.98",
+      "dsj": 3
     },
     {
       "_id": 7089287726,
@@ -213,12 +205,20 @@
       "dsj": 261
     },
     {
-      "_id": 7830166334,
-      "title": "Ren Amamiya",
+      "_id": 5018758160,
+      "title": "Jayce Talis",
       "m": 5,
       "a": 1,
-      "p": "3.98",
-      "dsj": 3
+      "p": "14.5",
+      "dsj": 64
+    },
+    {
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
+      "m": 5,
+      "a": 1,
+      "p": "1.80",
+      "dsj": 396
     },
     {
       "_id": 7381735904,
@@ -248,7 +248,7 @@
   "chat": {
     "total": 57874,
     "avg": 1929,
-    "member_count": 113,
+    "member_count": 112,
     "days": [
       {
         "msg": 881,
@@ -559,13 +559,13 @@
       {
         "day": "12/20",
         "new": 0,
-        "left": 2,
+        "left": 3,
         "active": 13
       }
     ],
     "active_count": 94,
     "new_count": 19,
-    "left_count": 45
+    "left_count": 46
   },
   "ruby": [
     {
@@ -599,6 +599,12 @@
       "name": "Yosano"
     },
     {
+      "id": 5331398288,
+      "status": "Normal",
+      "roles": 4,
+      "name": "Karama"
+    },
+    {
       "id": 6696918263,
       "status": "Normal",
       "roles": 1,
@@ -621,12 +627,6 @@
       "status": "Normal",
       "roles": 1,
       "name": "Morax"
-    },
-    {
-      "id": 5331398288,
-      "status": "Normal",
-      "roles": 3,
-      "name": "Karama"
     }
   ],
   "post": [
@@ -826,7 +826,7 @@
     {
       "id": 7312382729,
       "place": "tv",
-      "name": "‌‌‌‌ ‌‌ ‌ ‌‌shenhe"
+      "name": "‌‌‌‌ ‌‌ ‌ ‌‌gothlullaby"
     },
     {
       "id": 1948684068,
