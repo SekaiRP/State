@@ -197,12 +197,12 @@
       "dsj": 169
     },
     {
-      "_id": 5018758160,
-      "title": "Jayce Talis",
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
       "m": 5,
       "a": 1,
-      "p": "9.22",
-      "dsj": 64
+      "p": "1.14",
+      "dsj": 396
     },
     {
       "_id": 7830166334,
@@ -213,12 +213,12 @@
       "dsj": 3
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
+      "_id": 5018758160,
+      "title": "Jayce Talis",
       "m": 5,
       "a": 1,
-      "p": "1.14",
-      "dsj": 396
+      "p": "9.22",
+      "dsj": 64
     },
     {
       "_id": 7381735904,
@@ -229,12 +229,12 @@
       "dsj": 27
     },
     {
-      "_id": 6276998835,
-      "title": "Mona Megistus",
+      "_id": 7436299250,
+      "title": "Kamisato Ayato",
       "m": 3,
       "a": 1,
-      "p": "2.13",
-      "dsj": 191
+      "p": "2.66",
+      "dsj": 140
     },
     {
       "_id": 6357530910,
@@ -248,7 +248,7 @@
   "chat": {
     "total": 57907,
     "avg": 1930,
-    "member_count": 111,
+    "member_count": 110,
     "days": [
       {
         "msg": 881,
@@ -559,13 +559,13 @@
       {
         "day": "12/20",
         "new": 0,
-        "left": 4,
+        "left": 5,
         "active": 16
       }
     ],
     "active_count": 94,
     "new_count": 19,
-    "left_count": 47
+    "left_count": 48
   },
   "ruby": [
     {
