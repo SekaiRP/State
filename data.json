@@ -246,7 +246,7 @@
     }
   ],
   "chat": {
-    "total": 58790,
+    "total": 58792,
     "avg": 1959,
     "member_count": 113,
     "days": [
@@ -371,7 +371,7 @@
         "day": "12/22"
       },
       {
-        "msg": 1116,
+        "msg": 1118,
         "day": "12/23"
       }
     ],
@@ -569,6 +569,12 @@
   },
   "ruby": [
     {
+      "id": 5331398288,
+      "status": "Normal",
+      "roles": 6,
+      "name": "Karama"
+    },
+    {
       "id": 1557708565,
       "status": "Normal",
       "roles": 1,
@@ -579,18 +585,6 @@
       "status": "VIP",
       "roles": 3,
       "name": "Boothill"
-    },
-    {
-      "id": 5226171081,
-      "status": "Normal",
-      "roles": 0,
-      "name": "‌ ‌‌ ‌‌ ‌ 𝖸uɾᥲ"
-    },
-    {
-      "id": 5331398288,
-      "status": "Normal",
-      "roles": 5,
-      "name": "Karama"
     },
     {
       "id": 6725180134,
@@ -627,6 +621,12 @@
       "status": "Normal",
       "roles": 0,
       "name": "𝔗𝔥𝔢, Ꭰìʂçօɾժ"
+    },
+    {
+      "id": 1948684068,
+      "status": "Normal",
+      "roles": 0,
+      "name": "𐙚 ㅤㅤ"
     }
   ],
   "post": [
