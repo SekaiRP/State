@@ -205,6 +205,14 @@
       "dsj": 42
     },
     {
+      "_id": 6309535938,
+      "title": "Toji",
+      "m": 15,
+      "a": 1,
+      "p": "7.05",
+      "dsj": 183
+    },
+    {
       "_id": 6859814961,
       "title": "Guren Ichinose",
       "m": 15,
@@ -219,14 +227,6 @@
       "a": 1,
       "p": "5.00",
       "dsj": 0
-    },
-    {
-      "_id": 6309535938,
-      "title": "Toji",
-      "m": 15,
-      "a": 1,
-      "p": "7.05",
-      "dsj": 183
     },
     {
       "_id": 1596803535,
@@ -652,7 +652,7 @@
       "id": 6681639276,
       "top": 23,
       "status": "Normal",
-      "name": "[)(]"
+      "name": "MaKIma"
     },
     {
       "id": 1596803535,
@@ -794,6 +794,11 @@
       "name": "Light Yagami"
     },
     {
+      "id": 6681639276,
+      "place": "Register",
+      "name": "MaKIma"
+    },
+    {
       "id": 6276998835,
       "place": "empty",
       "name": "Mona Megistus"
@@ -817,11 +822,6 @@
       "id": 7380647309,
       "place": "manager",
       "name": "Yuichiro Hyakuya"
-    },
-    {
-      "id": 6681639276,
-      "place": "Register",
-      "name": "[)(]"
     },
     {
       "id": 6357530910,
