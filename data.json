@@ -181,6 +181,14 @@
       "dsj": 16
     },
     {
+      "_id": 5331398288,
+      "title": "Karama",
+      "m": 1,
+      "a": 1,
+      "p": "0.70",
+      "dsj": 114
+    },
+    {
       "_id": 6859814961,
       "title": "Guren Ichinose",
       "m": 1,
@@ -195,20 +203,12 @@
       "a": 1,
       "p": "0",
       "dsj": 178
-    },
-    {
-      "_id": 5331398288,
-      "title": "Karama",
-      "m": 1,
-      "a": 1,
-      "p": "0.70",
-      "dsj": 114
     }
   ],
   "chat": {
     "total": 61575,
     "avg": 2052,
-    "member_count": 108,
+    "member_count": 105,
     "days": [
       {
         "msg": 1047,
@@ -519,13 +519,13 @@
       {
         "day": "01/08",
         "new": 0,
-        "left": 0,
+        "left": 3,
         "active": 5
       }
     ],
     "active_count": 88,
     "new_count": 30,
-    "left_count": 40
+    "left_count": 43
   },
   "ruby": [
     {
