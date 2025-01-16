@@ -189,20 +189,20 @@
       "dsj": 26
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
-      "m": 1,
-      "a": 1,
-      "p": "0",
-      "dsj": 423
-    },
-    {
       "_id": 1318578276,
       "title": "prince of persia‌",
       "m": 1,
       "a": 1,
       "p": "0",
       "dsj": 13
+    },
+    {
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 423
     }
   ],
   "chat": {
