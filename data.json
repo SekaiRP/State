@@ -155,12 +155,12 @@
       "dsj": 21
     },
     {
-      "_id": 1557708565,
-      "title": "Viktor",
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
       "m": 51,
       "a": 7,
-      "p": "3.44",
-      "dsj": null
+      "p": "2.90",
+      "dsj": 431
     }
   ],
   "top_day": [
@@ -237,12 +237,12 @@
       "dsj": 34
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
+      "_id": 6726192922,
+      "title": "AETHER",
       "m": 1,
       "a": 1,
-      "p": "0",
-      "dsj": 431
+      "p": "1.12",
+      "dsj": 163
     }
   ],
   "chat": {
