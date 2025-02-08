@@ -111,7 +111,7 @@
       "title": "AETHER",
       "m": 408,
       "a": 5,
-      "p": "9.07",
+      "p": "9.06",
       "dsj": 178
     },
     {
@@ -246,9 +246,9 @@
     }
   ],
   "chat": {
-    "total": 20225,
+    "total": 20226,
     "avg": 674,
-    "member_count": 107,
+    "member_count": 106,
     "days": [
       {
         "msg": 84,
@@ -371,7 +371,7 @@
         "day": "02/07"
       },
       {
-        "msg": 1308,
+        "msg": 1309,
         "day": "02/08"
       }
     ],
@@ -559,13 +559,13 @@
       {
         "day": "02/08",
         "new": 1,
-        "left": 2,
+        "left": 3,
         "active": 31
       }
     ],
     "active_count": 52,
     "new_count": 7,
-    "left_count": 3
+    "left_count": 4
   },
   "ruby": [
     {
