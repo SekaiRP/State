@@ -159,13 +159,22 @@
       "title": "prince of persia‌",
       "m": 197,
       "a": 6,
-      "p": "2.84",
+      "p": "2.83",
       "dsj": 39
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 1557708565,
+      "title": "Viktor",
+      "m": 2,
+      "a": 1,
+      "p": "100",
+      "dsj": null
+    }
+  ],
   "chat": {
-    "total": 16583,
+    "total": 16585,
     "avg": 552,
     "member_count": 106,
     "days": [
@@ -290,7 +299,7 @@
         "day": "02/11"
       },
       {
-        "msg": 0,
+        "msg": 2,
         "day": "02/12"
       }
     ],
@@ -479,7 +488,7 @@
         "day": "02/12",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 1
       }
     ],
     "active_count": 53,
