@@ -169,47 +169,55 @@
       "title": "Na hae",
       "m": 5,
       "a": 1,
-      "p": "15.8",
+      "p": "15.3",
       "dsj": 38
-    },
-    {
-      "_id": 6276998835,
-      "title": "Mona Megistus",
-      "m": 4,
-      "a": 1,
-      "p": "19.7",
-      "dsj": 245
     },
     {
       "_id": 7335006595,
       "title": "Cai'er",
       "m": 4,
       "a": 1,
-      "p": "10.1",
+      "p": "9.83",
       "dsj": 40
     },
     {
-      "_id": 1596803535,
-      "title": "Yosano",
-      "m": 3,
+      "_id": 6276998835,
+      "title": "Mona Megistus",
+      "m": 4,
       "a": 1,
-      "p": "10.7",
-      "dsj": 229
+      "p": "19.1",
+      "dsj": 245
     },
     {
       "_id": 7273301327,
       "title": "Sung JinWoo",
       "m": 3,
       "a": 1,
-      "p": "20.9",
+      "p": "20.2",
       "dsj": 14
+    },
+    {
+      "_id": 1596803535,
+      "title": "Yosano",
+      "m": 3,
+      "a": 1,
+      "p": "10.3",
+      "dsj": 229
+    },
+    {
+      "_id": 5570147521,
+      "title": "Monkey D. Luffy",
+      "m": 2,
+      "a": 1,
+      "p": "6.01",
+      "dsj": 253
     },
     {
       "_id": 1557708565,
       "title": "Viktor",
       "m": 2,
       "a": 1,
-      "p": "5.64",
+      "p": "5.46",
       "dsj": null
     },
     {
@@ -217,22 +225,22 @@
       "title": "prince of persia‌",
       "m": 2,
       "a": 1,
-      "p": "10.7",
+      "p": "10.3",
       "dsj": 40
     },
     {
-      "_id": 5570147521,
-      "title": "Monkey D. Luffy",
-      "m": 2,
+      "_id": 6877169384,
+      "title": "𝐊amisato 𝐀yaka",
+      "m": 1,
       "a": 1,
-      "p": "6.21",
-      "dsj": 253
+      "p": "3.27",
+      "dsj": 298
     }
   ],
   "chat": {
-    "total": 16608,
+    "total": 16609,
     "avg": 553,
-    "member_count": 106,
+    "member_count": 105,
     "days": [
       {
         "msg": 230,
@@ -355,7 +363,7 @@
         "day": "02/11"
       },
       {
-        "msg": 25,
+        "msg": 26,
         "day": "02/12"
       }
     ],
@@ -543,13 +551,13 @@
       {
         "day": "02/12",
         "new": 0,
-        "left": 0,
-        "active": 8
+        "left": 1,
+        "active": 9
       }
     ],
     "active_count": 53,
     "new_count": 8,
-    "left_count": 5
+    "left_count": 6
   },
   "ruby": [
     {
