@@ -229,20 +229,20 @@
       "dsj": 274
     },
     {
-      "_id": 1557708565,
-      "title": "Optimus Prime",
-      "m": 2,
-      "a": 1,
-      "p": "0.51",
-      "dsj": null
-    },
-    {
       "_id": 6726192922,
       "title": "AETHER",
       "m": 2,
       "a": 1,
       "p": "0.71",
       "dsj": 211
+    },
+    {
+      "_id": 1557708565,
+      "title": "Optimus Prime",
+      "m": 2,
+      "a": 1,
+      "p": "0.51",
+      "dsj": null
     }
   ],
   "chat": {
