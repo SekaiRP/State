@@ -229,26 +229,26 @@
       "dsj": 13
     },
     {
-      "_id": 6873680749,
-      "title": null,
-      "m": 7,
-      "a": 1,
-      "p": "1.13",
-      "dsj": 2
-    },
-    {
       "_id": 7761469727,
       "title": "Tokisaki kurumi",
       "m": 6,
       "a": 1,
       "p": "5.47",
       "dsj": 43
+    },
+    {
+      "_id": 6726192922,
+      "title": "AETHER",
+      "m": 5,
+      "a": 1,
+      "p": "2.46",
+      "dsj": 226
     }
   ],
   "chat": {
     "total": 63901,
     "avg": 2130,
-    "member_count": 115,
+    "member_count": 114,
     "days": [
       {
         "msg": 1285,
@@ -559,13 +559,13 @@
       {
         "day": "03/28",
         "new": 0,
-        "left": 1,
+        "left": 2,
         "active": 17
       }
     ],
     "active_count": 75,
     "new_count": 17,
-    "left_count": 11
+    "left_count": 12
   },
   "ruby": [
     {
