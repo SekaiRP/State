@@ -163,9 +163,18 @@
       "dsj": 59
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 6877169384,
+      "title": "𝐊amisato 𝐀yaka",
+      "m": 1,
+      "a": 1,
+      "p": "100",
+      "dsj": 358
+    }
+  ],
   "chat": {
-    "total": 51701,
+    "total": 51702,
     "avg": 1723,
     "member_count": 110,
     "days": [
@@ -290,7 +299,7 @@
         "day": "04/13"
       },
       {
-        "msg": 0,
+        "msg": 1,
         "day": "04/14"
       }
     ],
@@ -479,7 +488,7 @@
         "day": "04/14",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 1
       }
     ],
     "active_count": 73,
