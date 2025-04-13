@@ -165,6 +165,14 @@
   ],
   "top_day": [
     {
+      "_id": 6725180134,
+      "title": "Erwin Smith",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 346
+    },
+    {
       "_id": 6877169384,
       "title": "𝐊amisato 𝐀yaka",
       "m": 1,
@@ -174,7 +182,7 @@
     }
   ],
   "chat": {
-    "total": 51702,
+    "total": 51703,
     "avg": 1723,
     "member_count": 110,
     "days": [
@@ -299,7 +307,7 @@
         "day": "04/13"
       },
       {
-        "msg": 1,
+        "msg": 2,
         "day": "04/14"
       }
     ],
@@ -488,7 +496,7 @@
         "day": "04/14",
         "new": 0,
         "left": 0,
-        "active": 1
+        "active": 2
       }
     ],
     "active_count": 73,
