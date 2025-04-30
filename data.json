@@ -237,16 +237,16 @@
       "dsj": 46
     },
     {
-      "_id": 5570147521,
-      "title": "Monkey D. Luffy",
-      "m": 1,
+      "_id": 7150573096,
+      "title": null,
+      "m": 2,
       "a": 1,
       "p": "0",
-      "dsj": 330
+      "dsj": 39
     }
   ],
   "chat": {
-    "total": 23230,
+    "total": 23232,
     "avg": 774,
     "member_count": 109,
     "days": [
@@ -371,7 +371,7 @@
         "day": "04/29"
       },
       {
-        "msg": 273,
+        "msg": 275,
         "day": "04/30"
       }
     ],
@@ -560,7 +560,7 @@
         "day": "04/30",
         "new": 0,
         "left": 1,
-        "active": 11
+        "active": 12
       }
     ],
     "active_count": 63,
