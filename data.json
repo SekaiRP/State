@@ -173,12 +173,12 @@
       "dsj": 84
     },
     {
-      "_id": 1318578276,
-      "title": "prince of persia",
+      "_id": 7429274562,
+      "title": null,
       "m": 1,
       "a": 1,
       "p": "0",
-      "dsj": 119
+      "dsj": 0
     },
     {
       "_id": 5889115331,
@@ -187,12 +187,20 @@
       "a": 1,
       "p": "0",
       "dsj": 16
+    },
+    {
+      "_id": 1318578276,
+      "title": "prince of persia",
+      "m": 1,
+      "a": 1,
+      "p": "0",
+      "dsj": 119
     }
   ],
   "chat": {
-    "total": 16877,
+    "total": 16878,
     "avg": 562,
-    "member_count": 109,
+    "member_count": 110,
     "days": [
       {
         "msg": 2153,
@@ -315,7 +323,7 @@
         "day": "05/01"
       },
       {
-        "msg": 4,
+        "msg": 5,
         "day": "05/02"
       }
     ],
@@ -502,13 +510,13 @@
       },
       {
         "day": "05/02",
-        "new": 0,
+        "new": 1,
         "left": 0,
-        "active": 3
+        "active": 4
       }
     ],
-    "active_count": 63,
-    "new_count": 5,
+    "active_count": 64,
+    "new_count": 6,
     "left_count": 10
   },
   "ruby": [
