@@ -189,36 +189,12 @@
       "dsj": 133
     },
     {
-      "_id": 5563695711,
-      "title": "Gojo Satoru",
-      "m": 2,
-      "a": 1,
-      "p": "4.85",
-      "dsj": 43
-    },
-    {
-      "_id": 8175569159,
-      "title": "Lang HaoChen",
-      "m": 2,
-      "a": 1,
-      "p": "0.77",
-      "dsj": 140
-    },
-    {
       "_id": 5678556352,
       "title": null,
       "m": 2,
       "a": 1,
       "p": "1.87",
       "dsj": 15
-    },
-    {
-      "_id": 5570147521,
-      "title": "Monkey D. Luffy",
-      "m": 2,
-      "a": 1,
-      "p": "2.31",
-      "dsj": 334
     },
     {
       "_id": 6859814961,
@@ -229,6 +205,14 @@
       "dsj": 531
     },
     {
+      "_id": 1318578276,
+      "title": "prince of persia",
+      "m": 2,
+      "a": 1,
+      "p": "3.19",
+      "dsj": 121
+    },
+    {
       "_id": 5889115331,
       "title": null,
       "m": 2,
@@ -237,18 +221,34 @@
       "dsj": 18
     },
     {
-      "_id": 1318578276,
-      "title": "prince of persia",
+      "_id": 8175569159,
+      "title": "Lang HaoChen",
       "m": 2,
       "a": 1,
-      "p": "3.19",
-      "dsj": 121
+      "p": "0.77",
+      "dsj": 140
+    },
+    {
+      "_id": 5563695711,
+      "title": "Gojo Satoru",
+      "m": 2,
+      "a": 1,
+      "p": "4.85",
+      "dsj": 43
+    },
+    {
+      "_id": 5570147521,
+      "title": "Monkey D. Luffy",
+      "m": 2,
+      "a": 1,
+      "p": "2.31",
+      "dsj": 334
     }
   ],
   "chat": {
     "total": 13625,
     "avg": 454,
-    "member_count": 109,
+    "member_count": 108,
     "days": [
       {
         "msg": 1215,
@@ -559,13 +559,13 @@
       {
         "day": "05/04",
         "new": 0,
-        "left": 0,
+        "left": 1,
         "active": 16
       }
     ],
     "active_count": 59,
     "new_count": 6,
-    "left_count": 10
+    "left_count": 11
   },
   "ruby": [
     {
