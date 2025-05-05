@@ -123,19 +123,19 @@
       "dsj": 81
     },
     {
-      "_id": 7976347818,
-      "title": null,
-      "m": 52,
-      "a": 4,
-      "p": "9.51",
-      "dsj": 51
-    },
-    {
       "_id": 7007752572,
       "title": "𝙿𝚑𝚘𝚜𝚙𝚑𝚘𝚛𝚞𝚜",
       "m": 52,
       "a": 4,
       "p": "5.37",
+      "dsj": 51
+    },
+    {
+      "_id": 7976347818,
+      "title": null,
+      "m": 52,
+      "a": 4,
+      "p": "9.51",
       "dsj": 51
     },
     {
@@ -167,7 +167,7 @@
   "chat": {
     "total": 12122,
     "avg": 404,
-    "member_count": 108,
+    "member_count": 107,
     "days": [
       {
         "msg": 349,
@@ -478,13 +478,13 @@
       {
         "day": "05/06",
         "new": 0,
-        "left": 0,
+        "left": 1,
         "active": 0
       }
     ],
     "active_count": 58,
     "new_count": 6,
-    "left_count": 10
+    "left_count": 11
   },
   "ruby": [
     {
@@ -663,12 +663,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 5868429303,
+      "name": "Razor"
     },
     {
-      "id": null,
-      "name": null
+      "id": 1252817257,
+      "name": "Mika"
     }
   ],
   "admins": [
