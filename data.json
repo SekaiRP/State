@@ -181,12 +181,12 @@
       "dsj": 134
     },
     {
-      "_id": 5563695711,
-      "title": "Gojo Satoru",
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
       "m": 1,
       "a": 1,
       "p": "0",
-      "dsj": 44
+      "dsj": 532
     },
     {
       "_id": 1988812409,
@@ -205,12 +205,12 @@
       "dsj": null
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
+      "_id": 5563695711,
+      "title": "Gojo Satoru",
       "m": 1,
       "a": 1,
       "p": "0",
-      "dsj": 532
+      "dsj": 44
     }
   ],
   "chat": {
