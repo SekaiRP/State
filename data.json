@@ -221,14 +221,6 @@
       "dsj": 51
     },
     {
-      "_id": 6725180134,
-      "title": "Erwin Smith",
-      "m": 2,
-      "a": 1,
-      "p": "0.72",
-      "dsj": 368
-    },
-    {
       "_id": 1318578276,
       "title": "prince of persia",
       "m": 2,
@@ -237,12 +229,20 @@
       "dsj": 122
     },
     {
-      "_id": 1557708565,
-      "title": "Optimus Prime",
+      "_id": 6725180134,
+      "title": "Erwin Smith",
+      "m": 2,
+      "a": 1,
+      "p": "0.72",
+      "dsj": 368
+    },
+    {
+      "_id": 1988812409,
+      "title": "Light Yagami",
       "m": 1,
       "a": 1,
-      "p": "1.44",
-      "dsj": null
+      "p": "0",
+      "dsj": 436
     }
   ],
   "chat": {
