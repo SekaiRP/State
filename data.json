@@ -206,7 +206,7 @@
     },
     {
       "_id": 7335006595,
-      "title": "Cai'er",
+      "title": "Cai'er - kati",
       "m": 1,
       "a": 1,
       "p": "8.73",
@@ -216,7 +216,7 @@
   "chat": {
     "total": 9577,
     "avg": 319,
-    "member_count": 106,
+    "member_count": 105,
     "days": [
       {
         "msg": 465,
@@ -527,13 +527,13 @@
       {
         "day": "05/12",
         "new": 0,
-        "left": 0,
+        "left": 1,
         "active": 6
       }
     ],
     "active_count": 56,
     "new_count": 5,
-    "left_count": 9
+    "left_count": 10
   },
   "ruby": [
     {
@@ -541,6 +541,12 @@
       "status": "VIP",
       "roles": 3,
       "name": "Boothill"
+    },
+    {
+      "id": 5331398288,
+      "status": "Normal",
+      "roles": 10,
+      "name": "Nagumo"
     },
     {
       "id": 1557708565,
@@ -567,24 +573,6 @@
       "name": "𝘕𝘢𝘷𝘪𝘢"
     },
     {
-      "id": 5331398288,
-      "status": "Normal",
-      "roles": 3,
-      "name": "Nagumo"
-    },
-    {
-      "id": 7262695699,
-      "status": "Normal",
-      "roles": 3,
-      "name": "Aglaea"
-    },
-    {
-      "id": 7889102676,
-      "status": "Normal",
-      "roles": 3,
-      "name": "Keyaruga"
-    },
-    {
       "id": 6696918263,
       "status": "Normal",
       "roles": 1,
@@ -595,6 +583,18 @@
       "status": "Normal",
       "roles": 1,
       "name": "Gojo Satoru"
+    },
+    {
+      "id": 7818669491,
+      "status": "Normal",
+      "roles": 3,
+      "name": "Subaru natsuki"
+    },
+    {
+      "id": 7569362844,
+      "status": "Normal",
+      "roles": 1,
+      "name": "Tartaglia"
     }
   ],
   "post": [
@@ -734,7 +734,7 @@
     {
       "id": 7335006595,
       "place": "repost",
-      "name": "Cai'er"
+      "name": "Cai'er - kati"
     },
     {
       "id": 6725180134,
