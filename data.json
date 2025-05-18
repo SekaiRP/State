@@ -229,20 +229,20 @@
       "dsj": 32
     },
     {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
-      "m": 4,
-      "a": 1,
-      "p": "1.40",
-      "dsj": 545
-    },
-    {
       "_id": 1751269357,
       "title": "Boothill",
       "m": 4,
       "a": 1,
       "p": "0.80",
       "dsj": null
+    },
+    {
+      "_id": 6859814961,
+      "title": "Guren Ichinose",
+      "m": 4,
+      "a": 1,
+      "p": "1.40",
+      "dsj": 545
     }
   ],
   "chat": {
