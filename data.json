@@ -163,9 +163,18 @@
       "dsj": 545
     }
   ],
-  "top_day": [],
+  "top_day": [
+    {
+      "_id": 6814611328,
+      "title": null,
+      "m": 1,
+      "a": 1,
+      "p": "100",
+      "dsj": 12
+    }
+  ],
   "chat": {
-    "total": 8800,
+    "total": 8801,
     "avg": 293,
     "member_count": 104,
     "days": [
@@ -290,7 +299,7 @@
         "day": "05/18"
       },
       {
-        "msg": 0,
+        "msg": 1,
         "day": "05/19"
       }
     ],
@@ -479,7 +488,7 @@
         "day": "05/19",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 1
       }
     ],
     "active_count": 57,
