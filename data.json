@@ -246,7 +246,7 @@
     }
   ],
   "chat": {
-    "total": 7269,
+    "total": 7270,
     "avg": 242,
     "member_count": 103,
     "days": [
@@ -371,7 +371,7 @@
         "day": "05/23"
       },
       {
-        "msg": 96,
+        "msg": 97,
         "day": "05/24"
       }
     ],
@@ -560,7 +560,7 @@
         "day": "05/24",
         "new": 0,
         "left": 0,
-        "active": 10
+        "active": 11
       }
     ],
     "active_count": 54,
