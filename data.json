@@ -167,7 +167,7 @@
   "chat": {
     "total": 5893,
     "avg": 196,
-    "member_count": 105,
+    "member_count": 0,
     "days": [
       {
         "msg": 226,
@@ -663,12 +663,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 6726192922,
+      "name": "AETHER"
     },
     {
-      "id": null,
-      "name": null
+      "id": 5271043730,
+      "name": "Noriaki Kakyoin"
     }
   ],
   "admins": [
