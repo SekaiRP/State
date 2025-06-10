@@ -147,20 +147,20 @@
       "dsj": 80
     },
     {
-      "_id": 1205375370,
-      "title": "Shinya Hīragi",
-      "m": 57,
-      "a": 1,
-      "p": "6.14",
-      "dsj": null
-    },
-    {
       "_id": 6725180134,
       "title": "Erwin Smith",
       "m": 57,
       "a": 2,
       "p": "5.67",
       "dsj": 404
+    },
+    {
+      "_id": 1205375370,
+      "title": "Shinya Hīragi",
+      "m": 57,
+      "a": 1,
+      "p": "6.14",
+      "dsj": null
     }
   ],
   "top_day": [],
@@ -663,12 +663,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 6241417443,
+      "name": "Batman"
     },
     {
-      "id": null,
-      "name": null
+      "id": 7383073914,
+      "name": "Lyney"
     }
   ],
   "admins": [
