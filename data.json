@@ -131,20 +131,20 @@
       "dsj": 81
     },
     {
-      "_id": 1557708565,
-      "title": "Optimus Prime",
-      "m": 60,
-      "a": 6,
-      "p": "3.48",
-      "dsj": null
-    },
-    {
       "_id": 6725180134,
       "title": "Erwin Smith",
       "m": 60,
       "a": 3,
       "p": "7.55",
       "dsj": 405
+    },
+    {
+      "_id": 1557708565,
+      "title": "Optimus Prime",
+      "m": 60,
+      "a": 6,
+      "p": "3.48",
+      "dsj": null
     },
     {
       "_id": 924397461,
@@ -663,12 +663,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 582288692,
+      "name": "Fool"
     },
     {
-      "id": null,
-      "name": null
+      "id": 5858073934,
+      "name": "Rimuru Tempest"
     }
   ],
   "admins": [
