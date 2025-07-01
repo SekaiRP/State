@@ -1,214 +1,255 @@
 {
   "top_month": [
     {
-      "_id": 1318578276,
-      "title": "prince of persia",
-      "m": 539,
-      "a": 30,
-      "p": "14.1",
-      "dsj": 168
+      "_id": 6596258445,
+      "title": "FAYE",
+      "m": 3230,
+      "a": 8,
+      "p": "13.0",
+      "dsj": 7
     },
     {
-      "_id": 5818671851,
-      "title": "Bachira Meguru",
-      "m": 395,
-      "a": 15,
-      "p": "9.72",
-      "dsj": 90
+      "_id": 1318578276,
+      "title": "prince of persia",
+      "m": 2260,
+      "a": 31,
+      "p": "7.68",
+      "dsj": 179
+    },
+    {
+      "_id": 1774370105,
+      "title": "Izana",
+      "m": 1663,
+      "a": 3,
+      "p": "6.51",
+      "dsj": 2
     },
     {
       "_id": 7872249921,
       "title": "𝘙𝘢𝘪𝘥𝘦𝘯 𝘴𝘩𝘰𝘨𝘶𝘯",
-      "m": 235,
-      "a": 17,
-      "p": "4.65",
-      "dsj": 19
+      "m": 1521,
+      "a": 27,
+      "p": "5.85",
+      "dsj": 30
+    },
+    {
+      "_id": 6398017941,
+      "title": "Gin",
+      "m": 1297,
+      "a": 6,
+      "p": "4.48",
+      "dsj": 1
+    },
+    {
+      "_id": 7282851709,
+      "title": "Nana",
+      "m": 1055,
+      "a": 4,
+      "p": "4.35",
+      "dsj": 3
+    },
+    {
+      "_id": 7896108044,
+      "title": "𝐌𝐢𝐲𝐚𝐦𝐨𝐭𝐨 𝐦𝐮𝐬𝐚𝐬𝐡𝐢",
+      "m": 901,
+      "a": 6,
+      "p": "4.25",
+      "dsj": 5
+    },
+    {
+      "_id": 7406733050,
+      "title": "Dabi",
+      "m": 841,
+      "a": 7,
+      "p": "3.41",
+      "dsj": 6
     },
     {
       "_id": 1557708565,
-      "title": "Optimus Prime",
-      "m": 221,
-      "a": 19,
-      "p": "6.42",
-      "dsj": null
-    },
-    {
-      "_id": 6726192922,
-      "title": "AETHER",
-      "m": 195,
-      "a": 13,
-      "p": "3.93",
-      "dsj": 310
-    },
-    {
-      "_id": 1751269357,
-      "title": "Boothill",
-      "m": 188,
-      "a": 15,
-      "p": "4.95",
+      "title": "Jotaro kujo",
+      "m": 708,
+      "a": 24,
+      "p": "3.31",
       "dsj": null
     },
     {
       "_id": 7409564899,
-      "title": "𝐅𝐨𝐜𝐚𝐥𝐨𝐫𝐬",
-      "m": 185,
+      "title": "Yosano",
+      "m": 597,
       "a": 19,
-      "p": "4.90",
-      "dsj": 313
-    },
-    {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
-      "m": 128,
-      "a": 16,
-      "p": "3.45",
-      "dsj": 578
-    },
-    {
-      "_id": 924397461,
-      "title": "Dio Brando",
-      "m": 121,
-      "a": 9,
-      "p": "5.53",
-      "dsj": 15
-    },
-    {
-      "_id": 6600496187,
-      "title": "",
-      "m": 119,
-      "a": 8,
-      "p": "2.78",
-      "dsj": 133
+      "p": "3.03",
+      "dsj": 324
     }
   ],
   "top_week": [
     {
-      "_id": 1318578276,
-      "title": "prince of persia",
-      "m": 60,
-      "a": 6,
-      "p": "27.7",
-      "dsj": 168
+      "_id": 6596258445,
+      "title": "FAYE",
+      "m": 3190,
+      "a": 7,
+      "p": "14.9",
+      "dsj": 7
     },
     {
-      "_id": 6309535938,
-      "title": "Yoriichi",
-      "m": 12,
+      "_id": 1318578276,
+      "title": "prince of persia",
+      "m": 1764,
+      "a": 7,
+      "p": "5.83",
+      "dsj": 179
+    },
+    {
+      "_id": 1774370105,
+      "title": "Izana",
+      "m": 1663,
       "a": 3,
-      "p": "3.93",
-      "dsj": 351
+      "p": "7.54",
+      "dsj": 2
+    },
+    {
+      "_id": 6398017941,
+      "title": "Gin",
+      "m": 1297,
+      "a": 6,
+      "p": "5.19",
+      "dsj": 1
     },
     {
       "_id": 7872249921,
       "title": "𝘙𝘢𝘪𝘥𝘦𝘯 𝘴𝘩𝘰𝘨𝘶𝘯",
-      "m": 12,
-      "a": 4,
-      "p": "2.34",
-      "dsj": 19
+      "m": 1282,
+      "a": 7,
+      "p": "5.83",
+      "dsj": 30
     },
     {
-      "_id": 6625260568,
-      "title": "Ice Rose",
-      "m": 10,
-      "a": 2,
-      "p": "58.8",
-      "dsj": 331
+      "_id": 7282851709,
+      "title": "Nana",
+      "m": 1055,
+      "a": 4,
+      "p": "5.03",
+      "dsj": 3
+    },
+    {
+      "_id": 7896108044,
+      "title": "𝐌𝐢𝐲𝐚𝐦𝐨𝐭𝐨 𝐦𝐮𝐬𝐚𝐬𝐡𝐢",
+      "m": 901,
+      "a": 6,
+      "p": "4.92",
+      "dsj": 5
+    },
+    {
+      "_id": 7406733050,
+      "title": "Dabi",
+      "m": 841,
+      "a": 7,
+      "p": "3.95",
+      "dsj": 6
+    },
+    {
+      "_id": 7150573096,
+      "title": null,
+      "m": 594,
+      "a": 5,
+      "p": "2.65",
+      "dsj": 101
+    },
+    {
+      "_id": 7409564899,
+      "title": "Yosano",
+      "m": 527,
+      "a": 7,
+      "p": "3.18",
+      "dsj": 324
+    }
+  ],
+  "top_day": [
+    {
+      "_id": 6398017941,
+      "title": "Gin",
+      "m": 526,
+      "a": 1,
+      "p": "12.5",
+      "dsj": 1
+    },
+    {
+      "_id": 6596258445,
+      "title": "FAYE",
+      "m": 490,
+      "a": 1,
+      "p": "11.8",
+      "dsj": 7
+    },
+    {
+      "_id": 1774370105,
+      "title": "Izana",
+      "m": 481,
+      "a": 1,
+      "p": "10.5",
+      "dsj": 2
+    },
+    {
+      "_id": 1318578276,
+      "title": "prince of persia",
+      "m": 330,
+      "a": 1,
+      "p": "6.05",
+      "dsj": 179
+    },
+    {
+      "_id": 1557708565,
+      "title": "Jotaro kujo",
+      "m": 179,
+      "a": 1,
+      "p": "6.93",
+      "dsj": null
+    },
+    {
+      "_id": 7282851709,
+      "title": "Nana",
+      "m": 126,
+      "a": 1,
+      "p": "3.24",
+      "dsj": 3
+    },
+    {
+      "_id": 7872249921,
+      "title": "𝘙𝘢𝘪𝘥𝘦𝘯 𝘴𝘩𝘰𝘨𝘶𝘯",
+      "m": 124,
+      "a": 1,
+      "p": "4.39",
+      "dsj": 30
+    },
+    {
+      "_id": 7896108044,
+      "title": "𝐌𝐢𝐲𝐚𝐦𝐨𝐭𝐨 𝐦𝐮𝐬𝐚𝐬𝐡𝐢",
+      "m": 113,
+      "a": 1,
+      "p": "3.86",
+      "dsj": 5
+    },
+    {
+      "_id": 7569362844,
+      "title": "Tartaglia",
+      "m": 100,
+      "a": 1,
+      "p": "27.1",
+      "dsj": 137
     },
     {
       "_id": 1751269357,
       "title": "Boothill",
-      "m": 8,
-      "a": 2,
-      "p": "1.95",
+      "m": 83,
+      "a": 1,
+      "p": "1.94",
       "dsj": null
-    },
-    {
-      "_id": 1557708565,
-      "title": "Optimus Prime",
-      "m": 5,
-      "a": 3,
-      "p": "0.44",
-      "dsj": null
-    },
-    {
-      "_id": 6859814961,
-      "title": "Guren Ichinose",
-      "m": 4,
-      "a": 2,
-      "p": "1.49",
-      "dsj": 578
-    },
-    {
-      "_id": 6926631526,
-      "title": "𝖬𝗂𝗌𝖺 𝖠𝗆𝖺𝗇𝖾",
-      "m": 3,
-      "a": 1,
-      "p": "0.82",
-      "dsj": 246
-    },
-    {
-      "_id": 5563695711,
-      "title": "Gojo Satoru",
-      "m": 2,
-      "a": 1,
-      "p": "0.33",
-      "dsj": 90
-    },
-    {
-      "_id": 6241417443,
-      "title": "Batman",
-      "m": 2,
-      "a": 1,
-      "p": "0.25",
-      "dsj": 341
     }
   ],
-  "top_day": [],
   "chat": {
-    "total": 3479,
-    "avg": 115,
-    "member_count": 105,
+    "total": 22915,
+    "avg": 763,
+    "member_count": 109,
     "days": [
-      {
-        "msg": 207,
-        "day": "05/22"
-      },
-      {
-        "msg": 91,
-        "day": "05/23"
-      },
-      {
-        "msg": 175,
-        "day": "05/24"
-      },
-      {
-        "msg": 128,
-        "day": "05/25"
-      },
-      {
-        "msg": 224,
-        "day": "05/26"
-      },
-      {
-        "msg": 373,
-        "day": "05/27"
-      },
-      {
-        "msg": 50,
-        "day": "05/28"
-      },
-      {
-        "msg": 35,
-        "day": "05/29"
-      },
-      {
-        "msg": 64,
-        "day": "05/30"
-      },
-      {
-        "msg": 35,
-        "day": "05/31"
-      },
       {
         "msg": 51,
         "day": "06/01"
@@ -290,71 +331,51 @@
         "day": "06/20"
       },
       {
-        "msg": 0,
+        "msg": 11,
         "day": "06/21"
+      },
+      {
+        "msg": 69,
+        "day": "06/22"
+      },
+      {
+        "msg": 17,
+        "day": "06/23"
+      },
+      {
+        "msg": 126,
+        "day": "06/24"
+      },
+      {
+        "msg": 987,
+        "day": "06/25"
+      },
+      {
+        "msg": 2003,
+        "day": "06/26"
+      },
+      {
+        "msg": 3993,
+        "day": "06/27"
+      },
+      {
+        "msg": 3275,
+        "day": "06/28"
+      },
+      {
+        "msg": 3025,
+        "day": "06/29"
+      },
+      {
+        "msg": 4355,
+        "day": "06/30"
+      },
+      {
+        "msg": 2957,
+        "day": "07/01"
       }
     ],
     "members": [
-      {
-        "day": "05/22",
-        "new": 1,
-        "left": 1,
-        "active": 12
-      },
-      {
-        "day": "05/23",
-        "new": 0,
-        "left": 0,
-        "active": 13
-      },
-      {
-        "day": "05/24",
-        "new": 0,
-        "left": 0,
-        "active": 13
-      },
-      {
-        "day": "05/25",
-        "new": 0,
-        "left": 0,
-        "active": 10
-      },
-      {
-        "day": "05/26",
-        "new": 1,
-        "left": 0,
-        "active": 12
-      },
-      {
-        "day": "05/27",
-        "new": 0,
-        "left": 0,
-        "active": 9
-      },
-      {
-        "day": "05/28",
-        "new": 0,
-        "left": 0,
-        "active": 9
-      },
-      {
-        "day": "05/29",
-        "new": 0,
-        "left": 0,
-        "active": 15
-      },
-      {
-        "day": "05/30",
-        "new": 0,
-        "left": 1,
-        "active": 10
-      },
-      {
-        "day": "05/31",
-        "new": 0,
-        "left": 0,
-        "active": 8
-      },
       {
         "day": "06/01",
         "new": 1,
@@ -479,43 +500,97 @@
         "day": "06/21",
         "new": 0,
         "left": 0,
-        "active": 0
+        "active": 3
+      },
+      {
+        "day": "06/22",
+        "new": 0,
+        "left": 0,
+        "active": 6
+      },
+      {
+        "day": "06/23",
+        "new": 0,
+        "left": 0,
+        "active": 4
+      },
+      {
+        "day": "06/24",
+        "new": 2,
+        "left": 0,
+        "active": 9
+      },
+      {
+        "day": "06/25",
+        "new": 2,
+        "left": 0,
+        "active": 19
+      },
+      {
+        "day": "06/26",
+        "new": 2,
+        "left": 1,
+        "active": 26
+      },
+      {
+        "day": "06/27",
+        "new": 0,
+        "left": 0,
+        "active": 28
+      },
+      {
+        "day": "06/28",
+        "new": 4,
+        "left": 1,
+        "active": 35
+      },
+      {
+        "day": "06/29",
+        "new": 2,
+        "left": 0,
+        "active": 32
+      },
+      {
+        "day": "06/30",
+        "new": 2,
+        "left": 1,
+        "active": 28
+      },
+      {
+        "day": "07/01",
+        "new": 2,
+        "left": 9,
+        "active": 30
       }
     ],
-    "active_count": 40,
-    "new_count": 6,
-    "left_count": 4
+    "active_count": 57,
+    "new_count": 18,
+    "left_count": 13
   },
   "ruby": [
     {
       "id": 1751269357,
       "status": "VIP",
-      "roles": 3,
+      "roles": 4,
       "name": "Boothill"
     },
     {
       "id": 5331398288,
       "status": "Normal",
       "roles": 13,
-      "name": "Nagumo"
+      "name": "Hiro"
     },
     {
       "id": 1557708565,
       "status": "Normal",
       "roles": 1,
-      "name": "Optimus Prime"
+      "name": "Jotaro kujo"
     },
     {
       "id": 6859814961,
       "status": "Normal",
-      "roles": 3,
+      "roles": 2,
       "name": "Guren Ichinose"
-    },
-    {
-      "id": 7409564899,
-      "status": "Normal",
-      "roles": 3,
-      "name": "𝐅𝐨𝐜𝐚𝐥𝐨𝐫𝐬"
     },
     {
       "id": 6600496187,
@@ -524,10 +599,22 @@
       "name": ""
     },
     {
+      "id": 7872249921,
+      "status": "Normal",
+      "roles": 2,
+      "name": "𝘙𝘢𝘪𝘥𝘦𝘯 𝘴𝘩𝘰𝘨𝘶𝘯"
+    },
+    {
       "id": 6696918263,
       "status": "Normal",
       "roles": 1,
       "name": "Osamu Dazai"
+    },
+    {
+      "id": 7409564899,
+      "status": "Normal",
+      "roles": 2,
+      "name": "Yosano"
     },
     {
       "id": 5563695711,
@@ -540,12 +627,6 @@
       "status": "Normal",
       "roles": 1,
       "name": "𝐷𝑒𝑛𝑗𝑖"
-    },
-    {
-      "id": 7569362844,
-      "status": "Normal",
-      "roles": 1,
-      "name": "Tartaglia"
     }
   ],
   "post": [
@@ -565,13 +646,13 @@
       "id": 1557708565,
       "top": 28,
       "status": "Normal",
-      "name": "Optimus Prime"
+      "name": "Jotaro kujo"
     },
     {
       "id": 7409564899,
       "top": 26,
       "status": "Normal",
-      "name": "𝐅𝐨𝐜𝐚𝐥𝐨𝐫𝐬"
+      "name": "Yosano"
     },
     {
       "id": 6681639276,
@@ -613,38 +694,38 @@
   "theme": [
     {
       "week": "Saturday",
-      "day": "2025.06.14",
-      "theme": null
+      "day": "2025.06.28",
+      "theme": "Cosplay"
     },
     {
       "week": "Sunday",
-      "day": "2025.06.15",
-      "theme": null
+      "day": "2025.06.29",
+      "theme": "Blue"
     },
     {
       "week": "Monday",
-      "day": "2025.06.16",
-      "theme": null
+      "day": "2025.06.30",
+      "theme": "Free"
     },
     {
       "week": "Tuesday",
-      "day": "2025.06.17",
-      "theme": null
+      "day": "2025.07.01",
+      "theme": "Ai"
     },
     {
       "week": "Wednesday",
-      "day": "2025.06.18",
-      "theme": null
+      "day": "2025.07.02",
+      "theme": "Weapon"
     },
     {
       "week": "Thursday",
-      "day": "2025.06.19",
-      "theme": null
+      "day": "2025.07.03",
+      "theme": "Free"
     },
     {
       "week": "Friday",
-      "day": "2025.06.20",
-      "theme": null
+      "day": "2025.07.04",
+      "theme": "Role Free"
     }
   ],
   "vips": [
@@ -658,17 +739,17 @@
     "id": 1751269357
   },
   "bMember": {
-    "name": "ORIHARA🏠",
+    "name": "ORIHARA📦",
     "id": 6879286476
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 6072232547,
+      "name": "Fyodor dostoyovsky"
     },
     {
-      "id": null,
-      "name": null
+      "id": 7177935707,
+      "name": "Gyro"
     }
   ],
   "admins": [
@@ -693,6 +774,11 @@
       "name": "Erwin Smith"
     },
     {
+      "id": 6596258445,
+      "place": "role play",
+      "name": "FAYE"
+    },
+    {
       "id": 5563695711,
       "place": "Register",
       "name": "Gojo Satoru"
@@ -703,9 +789,19 @@
       "name": "Guren Ichinose"
     },
     {
+      "id": 5331398288,
+      "place": "Tv",
+      "name": "Hiro"
+    },
+    {
       "id": 6625260568,
       "place": "report",
       "name": "Ice Rose"
+    },
+    {
+      "id": 1774370105,
+      "place": "Tumblr",
+      "name": "Izana"
     },
     {
       "id": 7380647309,
@@ -728,9 +824,9 @@
       "name": "Morax"
     },
     {
-      "id": 5331398288,
-      "place": "Tv",
-      "name": "Nagumo"
+      "id": 7282851709,
+      "place": "Empty",
+      "name": "Nana"
     },
     {
       "id": 6131723108,
@@ -738,19 +834,19 @@
       "name": "Neuvillette"
     },
     {
+      "id": 6309535938,
+      "place": "Tweet",
+      "name": "TOJI"
+    },
+    {
       "id": 5785225284,
       "place": "Repost",
       "name": "Xiao"
     },
     {
-      "id": 6309535938,
-      "place": "Tweet",
-      "name": "Yoriichi"
-    },
-    {
       "id": 7409564899,
       "place": "Register",
-      "name": "𝐅𝐨𝐜𝐚𝐥𝐨𝐫𝐬"
+      "name": "Yosano"
     },
     {
       "id": 5718670792,
