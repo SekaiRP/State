@@ -229,20 +229,20 @@
       "dsj": 528
     },
     {
-      "_id": 1751269357,
-      "title": "Scaramouche",
-      "m": 23,
-      "a": 1,
-      "p": "2.94",
-      "dsj": null
-    },
-    {
       "_id": 6859814961,
       "title": "Itachi Uchiha",
       "m": 23,
       "a": 1,
       "p": "2.75",
       "dsj": 624
+    },
+    {
+      "_id": 1751269357,
+      "title": "Scaramouche",
+      "m": 23,
+      "a": 1,
+      "p": "2.94",
+      "dsj": null
     }
   ],
   "chat": {
