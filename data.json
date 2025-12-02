@@ -315,21 +315,21 @@
       "dsj": 29
     },
     {
-      "_id": 6926631526,
-      "title": "Himeno",
+      "_id": 1318578276,
+      "title": "Prince of Persia",
       "join": {
-        "1001585852656": "2025-10-29T10:26:37.000Z"
+        "1001585852656": "2025-12-01T20:39:44.000Z"
       },
       "m": 7,
       "a": 1,
       "p": "1.45",
-      "dsj": 33
+      "dsj": 0
     }
   ],
   "chat": {
     "total": 84045,
     "avg": 2711,
-    "member_count": 112,
+    "member_count": 111,
     "days": [
       {
         "msg": 4389,
@@ -640,13 +640,13 @@
       {
         "day": "12/02",
         "new": 1,
-        "left": 0,
+        "left": 1,
         "active": 23
       }
     ],
     "active_count": 98,
     "new_count": 39,
-    "left_count": 40
+    "left_count": 41
   },
   "ruby": [
     {
