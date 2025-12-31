@@ -660,7 +660,7 @@
     },
     {
       "id": 6241417443,
-      "status": "VIP",
+      "status": "Normal",
       "roles": 3,
       "name": "Batman"
     },
@@ -753,7 +753,7 @@
     {
       "id": 6241417443,
       "top": 25,
-      "status": "VIP",
+      "status": "Normal",
       "name": "Batman"
     },
     {
@@ -816,10 +816,6 @@
     {
       "id": 1751269357,
       "name": "Aki Hayakawa"
-    },
-    {
-      "id": 6241417443,
-      "name": "Batman"
     },
     {
       "id": 7416093695,
