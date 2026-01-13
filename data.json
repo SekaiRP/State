@@ -139,6 +139,14 @@
       "dsj": null
     },
     {
+      "_id": 1988812409,
+      "title": "Light Yagami",
+      "m": 3,
+      "a": 2,
+      "p": "0.56",
+      "dsj": null
+    },
+    {
       "_id": 6242047528,
       "title": "Reze",
       "m": 3,
@@ -151,14 +159,6 @@
       "title": "Yosano",
       "m": 3,
       "a": 1,
-      "p": "0.56",
-      "dsj": null
-    },
-    {
-      "_id": 1988812409,
-      "title": "Light Yagami",
-      "m": 3,
-      "a": 2,
       "p": "0.56",
       "dsj": null
     }
