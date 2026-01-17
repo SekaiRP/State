@@ -96,7 +96,7 @@
       "m": 15,
       "a": 1,
       "p": "24.1",
-      "dsj": 97
+      "dsj": 98
     }
   ],
   "top_day": [],
@@ -611,12 +611,12 @@
   },
   "ship": [
     {
-      "id": null,
-      "name": null
+      "id": 6725180134,
+      "name": "Erwin Smith"
     },
     {
-      "id": null,
-      "name": null
+      "id": 7789164537,
+      "name": "Alastor"
     }
   ],
   "admins": [
